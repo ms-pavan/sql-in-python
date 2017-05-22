@@ -5,7 +5,7 @@ Steps to follow to connect to SQL Server
 
 Install python and follow the below steps :
 
-1.Add  Path in  environment variables : example-add c:\python34\;c:\python34\script
+1.Add  Path in  environment variables : example-add c:\python34\;c:\python34\scripts
 
 The above are the python installed paths
 python34-version
